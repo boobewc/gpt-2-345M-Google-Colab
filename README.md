@@ -50,3 +50,6 @@ We are still considering release of the larger models.
 ## License
 
 [MIT](./LICENSE)
+
+
+colab URL : https://colab.research.google.com/drive/1CO8D2ccxtyL5yrLyi6ktLzCpJwCCw4fi
